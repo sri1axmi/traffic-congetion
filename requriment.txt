@@ -1,0 +1,7 @@
+flask
+numpy
+sklearn
+joblib
+datetime
+pandas
+json
